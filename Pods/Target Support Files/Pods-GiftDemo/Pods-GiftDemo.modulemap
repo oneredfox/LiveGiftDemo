@@ -1,0 +1,6 @@
+framework module Pods_GiftDemo {
+  umbrella header "Pods-GiftDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
